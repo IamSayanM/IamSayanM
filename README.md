@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamSayanM
-- 👀 I’m interested in Java, Dot Net, Javascript, Html, css, Jquesry
-- 🌱 I’m currently learning Angular and node Js
+- 👀 I’m interested in Java, SpringBoot, Flutter, Html, css, Jquery
+- 🌱 I’m currently learning SQl and Spring Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
